@@ -1,0 +1,15 @@
+<svg width="8900" height="8600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="8602" width="8902" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="2700" width="2100" y="100" x="6700" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <rect id="svg_2" height="0" width="8.33335" y="2091.670514" x="5869.455849" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <image stroke="null" xlink:href="ris.png" id="svg_4" height="2700" width="2100" y="100" x="6700"/>
+ </g>
+</svg>
